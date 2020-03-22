@@ -17,6 +17,9 @@
 		8F47299F2427259B00942EEF /* NSString+utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F47299E2427259B00942EEF /* NSString+utils.m */; };
 		8F4729A02427259B00942EEF /* NSString+utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F47299E2427259B00942EEF /* NSString+utils.m */; };
 		8F4729A12427259B00942EEF /* NSString+utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F47299E2427259B00942EEF /* NSString+utils.m */; };
+		8F4729A4242752D100942EEF /* UIButton+utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F4729A3242752D100942EEF /* UIButton+utils.m */; };
+		8F4729A5242752D100942EEF /* UIButton+utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F4729A3242752D100942EEF /* UIButton+utils.m */; };
+		8F4729A6242752D100942EEF /* UIButton+utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F4729A3242752D100942EEF /* UIButton+utils.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +58,8 @@
 		8F47298D2427243E00942EEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F47299D2427259B00942EEF /* NSString+utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+utils.h"; sourceTree = "<group>"; };
 		8F47299E2427259B00942EEF /* NSString+utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+utils.m"; sourceTree = "<group>"; };
+		8F4729A2242752D100942EEF /* UIButton+utils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+utils.h"; sourceTree = "<group>"; };
+		8F4729A3242752D100942EEF /* UIButton+utils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+utils.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +147,8 @@
 			children = (
 				8F47299D2427259B00942EEF /* NSString+utils.h */,
 				8F47299E2427259B00942EEF /* NSString+utils.m */,
+				8F4729A2242752D100942EEF /* UIButton+utils.h */,
+				8F4729A3242752D100942EEF /* UIButton+utils.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -278,6 +285,7 @@
 				8F47296C2427243E00942EEF /* ViewController.m in Sources */,
 				8F4729662427243E00942EEF /* AppDelegate.m in Sources */,
 				8F47299F2427259B00942EEF /* NSString+utils.m in Sources */,
+				8F4729A4242752D100942EEF /* UIButton+utils.m in Sources */,
 				8F4729772427243E00942EEF /* main.m in Sources */,
 				8F4729692427243E00942EEF /* SceneDelegate.m in Sources */,
 			);
@@ -287,6 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F4729A5242752D100942EEF /* UIButton+utils.m in Sources */,
 				8F4729812427243E00942EEF /* TSUtilsTests.m in Sources */,
 				8F4729A02427259B00942EEF /* NSString+utils.m in Sources */,
 			);
@@ -297,6 +306,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F4729A12427259B00942EEF /* NSString+utils.m in Sources */,
+				8F4729A6242752D100942EEF /* UIButton+utils.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
