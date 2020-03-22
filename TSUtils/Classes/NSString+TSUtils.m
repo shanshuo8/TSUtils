@@ -1,14 +1,14 @@
 //
-//  NSString+utils.m
+//  NSString+TSUtils.m
 //  RAC_MVVM_DEMO
 //
 //  Created by 夏星星 on 2020/3/19.
 //  Copyright © 2020 夏星星. All rights reserved.
 //
 
-#import "NSString+utils.h"
+#import "NSString+TSUtils.h"
 
-@implementation NSString (utils)
+@implementation NSString (TSUtils)
 
 - (NSString *)getDateStringWithFormat:(NSString *)format
 {

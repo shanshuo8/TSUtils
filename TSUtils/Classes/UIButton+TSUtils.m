@@ -1,14 +1,14 @@
 //
-//  UIButton+utils.m
-//  TSUtils
+//  UIButton+TSUtils.m
+//  TSTSUtils
 //
 //  Created by 夏星星 on 2020/3/22.
 //  Copyright © 2020 夏星星. All rights reserved.
 //
 
-#import "UIButton+utils.h"
+#import "UIButton+TSUtils.h"
 
-@implementation UIButton (utils)
+@implementation UIButton (TSUtils)
 
 - (void)layoutButtonWithEdgeInsetsStyle:(TSButtonEdgeInsetsStyle)style
                         imageTitleSpace:(CGFloat)space

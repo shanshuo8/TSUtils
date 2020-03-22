@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "NSString+utils.h"
+#import "NSString+TSUtils.h"
 
 @interface ViewController ()
 

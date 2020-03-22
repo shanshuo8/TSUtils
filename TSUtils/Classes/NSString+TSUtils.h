@@ -1,5 +1,5 @@
 //
-//  NSString+utils.h
+//  NSString+TSUtils.h
 //  RAC_MVVM_DEMO
 //
 //  Created by 夏星星 on 2020/3/19.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface NSString (utils)
+@interface NSString (TSUtils)
 
 - (NSString *)getDateStringWithFormat:(NSString *)format;
 

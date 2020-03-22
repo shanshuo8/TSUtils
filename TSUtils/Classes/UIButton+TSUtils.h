@@ -1,6 +1,6 @@
 //
-//  UIButton+utils.h
-//  TSUtils
+//  UIButton+TSUtils.h
+//  TSTSUtils
 //
 //  Created by 夏星星 on 2020/3/22.
 //  Copyright © 2020 夏星星. All rights reserved.
@@ -17,7 +17,7 @@ typedef NS_ENUM(NSUInteger, TSButtonEdgeInsetsStyle) {
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface UIButton (utils)
+@interface UIButton (TSUtils)
 
 /**
  *  设置button的titleLabel和imageView的布局样式，及间距

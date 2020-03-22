@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import "NSString+utils.h"
+#import "NSString+TSUtils.h"
 @interface TSUtilsTests : XCTestCase
 
 @end
