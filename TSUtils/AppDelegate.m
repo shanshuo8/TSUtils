@@ -8,7 +8,8 @@
 
 #import "AppDelegate.h"
 #import "ViewController.h"
-#import "NSString+TSUtils.h"
+#import "TSUtils.h"
+
 @interface AppDelegate ()
 
 @end

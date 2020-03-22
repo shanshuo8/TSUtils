@@ -60,6 +60,7 @@
 		8F47299E2427259B00942EEF /* NSString+TSUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+TSUtils.m"; sourceTree = "<group>"; };
 		8F4729A2242752D100942EEF /* UIButton+TSUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+TSUtils.h"; sourceTree = "<group>"; };
 		8F4729A3242752D100942EEF /* UIButton+TSUtils.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+TSUtils.m"; sourceTree = "<group>"; };
+		8F4729A7242788E800942EEF /* TSUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TSUtils.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +150,7 @@
 				8F47299E2427259B00942EEF /* NSString+TSUtils.m */,
 				8F4729A2242752D100942EEF /* UIButton+TSUtils.h */,
 				8F4729A3242752D100942EEF /* UIButton+TSUtils.m */,
+				8F4729A7242788E800942EEF /* TSUtils.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
