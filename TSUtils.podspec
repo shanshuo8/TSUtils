@@ -10,4 +10,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/shanshuo8/TSUtils.git", :tag => s.version }
   s.source_files  = "TSUtils/Classes"
   s.requires_arc = true
+  s.platform     = :ios
+  s.framework    = "UIKit"
 end
